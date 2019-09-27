@@ -1,0 +1,25 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px;
+}
+.boton{
+    outline: none;
+    background-color: rgb(133, 24, 100);
+    color: whitesmoke;
+}
+.relleno-interno{
+    padding: 10px 5px;
+}
+code{
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+}
+.texto-exito{
+    color: rebeccapurple;
+}
+.texto-error{
+    color: pink;
+}
+.texto-alerta{
+    color: greenyellow;
+}
